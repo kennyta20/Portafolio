@@ -1,53 +1,53 @@
 # Data Scientist
 
-__Technical Skills: SQL | Python | R | Tableau | Data Visualization |  Machine Learning__
+__Technical Skills: SQL | Python | Tableau |  Machine Learning__
 
 ### Education
-Tecnológico de Monterrey (Guadalajara, México): Bachelor's Degree in Business Intelligence (Ongoing 2023-2027)
+-Tecnológico de Monterrey (Guadalajara, México): Bachelor's Degree in Business Intelligence (Ongoing 2023-2027)
 
-Tripleten (Online): Data Scientist Online Bootcamp (July – December 2024)
+-Tripleten (Online): Data Scientist Online Bootcamp (July – December 2024)
 
 ### Work Experience
 __AI trainer, Outlier – Remote (August 2024 – January 2025)__
 
-• Created and tested coding prompts to improve AI models’ understanding of logic and structure.
+•Created and tested coding prompts to improve AI models’ understanding of logic and structure.
 
-• Automated the validation of AI-generated responses using Python, identifying syntax and logic errors.
+•Automated the validation of AI-generated responses using Python, identifying syntax and logic errors.
 
-• Applied NLP techniques and cross-validation methods to enhance the coherence and relevance of outputs.
+•Applied NLP techniques and cross-validation methods to enhance the coherence and relevance of outputs.
 
-• Provided structured feedback to development teams to improve model performance.
+•Provided structured feedback to development teams to improve model performance.
 
 
 __Sales Analysis – TEC store (February 2024 – March 2024)__
 
-• Developed interactive dashboards in Tableau to identify sales and profitability trends by region and product.
+•Developed interactive dashboards in Tableau to identify sales and profitability trends by region and product.
 
-• Conducted cluster analysis and correlation studies to support strategic decision-making.
+•Conducted cluster analysis and correlation studies to support strategic decision-making.
 
-• Presented key findings to senior management using KPI dashboards and advanced visualizations.
+•Presented key findings to senior management using KPI dashboards and advanced visualizations.
 
 __Business Administrator, Fun Rides – Quito-Ecuador (March 2023 – February 2024)__
 
-• Optimized inventory control processes to ensure 100% stock availability and efficient product flow.
+•Optimized inventory control processes to ensure 100% stock availability and efficient product flow.
 
-• Negotiated with key suppliers, achieving a 15% reduction in operating costs.
+•Negotiated with key suppliers, achieving a 15% reduction in operating costs.
 
-• Worked with databases to extract and analyze data, providing actionable business insights.
+•Worked with databases to extract and analyze data, providing actionable business insights.
 
 ### Projects
 __Automatic Classification of Movie Reviews – Film Junky Union (January 2025 – February 2025)__
 
-• Built a machine learning model using a IMDB dataset to classify movie reviews as positive or negative.
+•Built a machine learning model using a IMDB dataset to classify movie reviews as positive or negative.
 
-• Trained and evaluated models using metrics such as AUC-ROC, F1-score, and confusion matrix.
+•Trained and evaluated models using metrics such as AUC-ROC, F1-score, and confusion matrix.
 
-• Produced high-quality data analysis to ensure reliable outputs.
+•Produced high-quality data analysis to ensure reliable outputs.
 
 __Rideshare Analysis – Zuber – TRIPLETEN (October 2024 – December 2024)__
 
-• Analyzed rideshare data from Chicago using Python to uncover business insights.
+•Analyzed rideshare data from Chicago using Python to uncover business insights.
 
-• Collected, cleaned, and visualized data using SQL and Tableau to build interactive dashboards.
+•Collected, cleaned, and visualized data using SQL and Tableau to build interactive dashboards.
 
-• Conducted hypothesis testing on rainy Saturdays to support operational optimization decisions.
+•Conducted hypothesis testing on rainy Saturdays to support operational optimization decisions.
