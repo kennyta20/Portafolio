@@ -43,6 +43,8 @@ __Automatic Classification of Movie Reviews – Film Junky Union (January 2025 �
 •Trained and evaluated models using metrics such as AUC-ROC, F1-score, and confusion matrix.
 
 •Produced high-quality data analysis to ensure reliable outputs.
+<img width="493" alt="Captura de pantalla 2025-04-22 a la(s) 5 30 27 p  m" src="https://github.com/user-attachments/assets/9e2af708-a80d-46ec-8260-34f23f782073" />
+
 
 __Rideshare Analysis – Zuber – TRIPLETEN (October 2024 – December 2024)__
 
@@ -51,3 +53,5 @@ __Rideshare Analysis – Zuber – TRIPLETEN (October 2024 – December 2024)__
 •Collected, cleaned, and visualized data using SQL and Tableau to build interactive dashboards.
 
 •Conducted hypothesis testing on rainy Saturdays to support operational optimization decisions.
+<img width="398" alt="Captura de pantalla 2025-04-22 a la(s) 5 32 12 p  m" src="https://github.com/user-attachments/assets/3a02834d-a4fd-4308-b6ff-80f0d9cd0cda" />
+
