@@ -1,6 +1,6 @@
 # Data Scientist
 
-__Technical Skills: SQL | Python | Tableau |  Machine Learning__
+Technical Skills: SQL | Python | Tableau |  Machine Learning
 
 ### Education
 -Tecnológico de Monterrey (Guadalajara, México): Bachelor's Degree in Business Intelligence (Ongoing 2023-2027)
