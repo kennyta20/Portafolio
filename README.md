@@ -3,6 +3,7 @@
 ### Education
 Tecnológico de Monterrey (Guadalajara, México): Bachelor's Degree in Business Intelligence (Ongoing 2023-2027)
 Tripleten (Online): Data Scientist Online Bootcamp (July – December 2024)
+<img width="54" alt="Captura de pantalla 2025-04-22 a la(s) 4 53 40 p  m" src="https://github.com/user-attachments/assets/f1285741-8f40-4f07-8e77-b543518355d9" />
 
 ### Work Experience
 AI trainer, Outlier – Remote (August 2024 – January 2025)
