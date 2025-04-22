@@ -1,6 +1,6 @@
 # Data Scientist
 
-** SQL | Python | R | Tableau | Data Visualization |  Machine Learning **
+__SQL | Python | R | Tableau | Data Visualization |  Machine Learning__
 
 ### Education
 Tecnológico de Monterrey (Guadalajara, México): Bachelor's Degree in Business Intelligence (Ongoing 2023-2027)
