@@ -57,3 +57,17 @@ __Rideshare Analysis – Zuber – TRIPLETEN (October 2024 – December 2024)__
 
 <img width="398" alt="Captura de pantalla 2025-04-22 a la(s) 5 32 12 p  m" src="https://github.com/user-attachments/assets/3a02834d-a4fd-4308-b6ff-80f0d9cd0cda" />
 
+### 🚀 Interested in working with me?
+
+I'm always open to new challenges. If you have a project where you think I can contribute with my skills in data analysis, artificial intelligence, or visualization, get in touch!
+
+
+## 📬 Contacto
+- 💼 [LinkedIn](https://www.linkedin.com/in/kennytapia)
+- 
+- 💻 [GitHub](https://github.com/kennytapia)
+- 
+- 📫 Email: kenny@email.com
+
+
+
