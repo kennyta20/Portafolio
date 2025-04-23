@@ -63,11 +63,9 @@ I'm always open to new challenges. If you have a project where you think I can c
 
 
 ## 📬 Contacto
-- 💼 [LinkedIn](www.linkedin.com/in/kenny-tapia)
-- 
-- 💻 [GitHub](https://github.com/kennytapia(https://www.linkedin.com/in/kennytapia))
-- 
-- 📫 Email: kennyta20@outlook.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/kenny-tapia)
+- 💻 [GitHub](https://github.com/kennyta20)
+- 📩 Correo: kennyta20@outlook.com
 
 
 
